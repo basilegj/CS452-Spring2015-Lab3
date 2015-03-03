@@ -1,1 +1,12 @@
-name, date, description
+Greg Basile, March 3, 2015, 
+
+
+
+
+So I sort of cheated when it came to the shape, but I think it's pretty cool. Basically the code takes
+the shadedCube example from Angel, and assigns the cube random vertices and colors. 
+
+I didn't quite understand what hint you were trying to give me in the email though. May need to modify this later
+I suppose. 
+
+The code modifies the angle of the cube by performing matrix rotations, and uses the Phong method for lighting.
